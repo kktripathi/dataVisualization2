@@ -1,0 +1,11 @@
+university,latitude,longitude,endowment,numFaculty,numDoctoral,country,numStaff,established,numPostgrad,numUndergrad,numStudents
+Baylor University,31.549841,-97.1143146,8.72E+08,859,,United States,,1845,2620,12149,14769
+Binghamton University,42.0893553,-75.9697049,100000000,551,NA,United States,,1946,3007,11706,14713
+Boston College,42.3355488,-71.1684945,1900000,Total: 1489,NA,United States,1368,1863,4928,9826,14754
+Ferris State University,43.6834099,-85.4841782,2.51E+07,561,41,United States,832,1884,1169,13350,14560
+Queen Mary%2C University of London,51.5240671,-0.0403745,3.36E+07,,NA,United Kingdom,,1121,3715,11105,14820
+Regis University,39.7893676,-105.0298065,1.98E+08,"Total: 1,947",,United States,657,1877,7583,7123,14706
+University of Essex,51.8777259,0.9472069,4521000,,,United Kingdom,1997,1964,3125,11640,14765
+University of Missouri%E2%80%93Kansas City,39.0335539,-94.5760259,1120000,1185,NA,United States,2029,1933,5157,9907,15064
+Western Washington University,48.7335079,-122.4873017,2.68E+07,463,,United States,1172,,1179,13396,14575
+Wichita State University,37.7188673,-97.2934331,1.70E+08,41,,United States,,1895,3043,11763,14806
